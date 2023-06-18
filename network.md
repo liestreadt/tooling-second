@@ -1,1 +1,1 @@
-![Alt text](./image.png)
+![Alt text](./images/1st-duplicate.png)
